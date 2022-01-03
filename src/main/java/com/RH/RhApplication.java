@@ -12,7 +12,10 @@ import com.RH.model.Poste;
 import com.RH.repository.candidatRepository;
 import com.RH.repository.posteRepository;
 
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
 @SpringBootApplication
+@EnableSwagger2
 public class RhApplication  implements CommandLineRunner {
 	@Autowired
     private posteRepository posteRep ;
