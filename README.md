@@ -1,5 +1,5 @@
 # RhBack
-<h3>Projet conception et développement d'une application de gestion des ressources humaines - RH.</h3>
+<h3>Projet conception et développement d'une application de gestion des ressources humaines-RH.</h3>
 - tester avec swagger
 
 <h2>Technologies :</h2>
