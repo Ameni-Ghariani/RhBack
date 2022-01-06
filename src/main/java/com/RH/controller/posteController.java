@@ -22,7 +22,7 @@ import com.RH.model.Poste;
 
 
 @RestController
-@RequestMapping("/postes")
+@RequestMapping("/api")
 public class posteController {
    
 	@Autowired

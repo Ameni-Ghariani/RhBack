@@ -30,7 +30,8 @@ import com.RH.model.Candidat;
 		private candidatRepository candidatRepository  ;
 		@GetMapping("/all")
 		public  List<Candidat> getAllCandidat (){
-			
+			System.out.println("hello");
+
 			return candidatRepository.findAll();
 			}
 		//build create candidat RestApi
